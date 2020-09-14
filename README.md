@@ -8,7 +8,7 @@ This project was created as a part of the Android Basics Nanodegree and for Goog
 
 ## Usage:
 
-<img src="https://github.com/RB-93/NewsApp_Stage_1/blob/master/app-demo/News_1[1].jpg?raw=true" width="250" height="450" title="Launch"> <br/><br/> <img src="https://github.com/RB-93/NewsApp_Stage_1/blob/master/app-demo/News_12[1].jpg?raw=true" width="250" height="450" title="Hotels List"> &nbsp; &nbsp; <img src="https://github.com/RB-93/NewsApp_Stage_1/blob/master/app-demo/News_14[1].jpg?raw=true" width="250" height="450" title="Places List"> &nbsp; &nbsp; <img src="https://github.com/RB-93/NewsApp_Stage_1/blob/master/app-demo/News_13[1].jpg?raw=true" width="250" height="450" title="Shops List">
+<img src="https://github.com/RB-93/NewsApp_Stage_1/blob/master/app-demo/News_1[1].jpg?raw=true" width="250" height="450" title="Launch"> <br/><br/> <img src="https://github.com/RB-93/NewsApp_Stage_1/blob/master/app-demo/News_12[1].jpg?raw=true" width="250" height="450" title="Offline Screen"> &nbsp; &nbsp; <img src="https://github.com/RB-93/NewsApp_Stage_1/blob/master/app-demo/News_14[1].jpg?raw=true" width="250" height="450" title="News List"> &nbsp; &nbsp; <img src="https://github.com/RB-93/NewsApp_Stage_1/blob/master/app-demo/News_13[1].jpg?raw=true" width="250" height="450" title="News Content">
 
 ## Credits:
 
