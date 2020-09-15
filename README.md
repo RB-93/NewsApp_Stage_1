@@ -12,5 +12,5 @@ This project was created as a part of the Android Basics Nanodegree and for Goog
 
 ## Credits:
 
-* Image sourced from Google.
+* Images sourced from Google.
 * The news content sourced from the [Guardian](https://open-platform.theguardian.com/) API.
